@@ -28,7 +28,7 @@ python smart_dictionary.py
 - "سلام" (Hello)
 - "ماشین یادگیری" (Say an unknown word to teach it)
 
-## 🧠 How It Learns
+## How It Learns
 When you say an unknown word:
 1. Bot asks: "I don't know this word. Please define it"
 2. Speak your definition
